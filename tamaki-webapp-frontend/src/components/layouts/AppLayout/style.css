@@ -1,0 +1,17 @@
+.app-layout-content {
+    width : 100%;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+
+.app-layout-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #E8EFF0;
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+

@@ -1,0 +1,6 @@
+setup.py
+tamaki_webapp_api.egg-info/PKG-INFO
+tamaki_webapp_api.egg-info/SOURCES.txt
+tamaki_webapp_api.egg-info/dependency_links.txt
+tamaki_webapp_api.egg-info/requires.txt
+tamaki_webapp_api.egg-info/top_level.txt
