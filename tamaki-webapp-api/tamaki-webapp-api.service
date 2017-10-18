@@ -1,0 +1,8 @@
+[Unit]
+Description=Tamaki Webapp API
+
+[Service]
+ExecStart=/bin/bash -c 'cd /usr/share/tamaki-webapp-api; source env/bin/activate; uwsgi --ini nginx.ini'
+
+[Install]
+WantedBy=multi-user.target

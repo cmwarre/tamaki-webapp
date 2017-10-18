@@ -7,6 +7,11 @@
       <excludeFolder url="file://$MODULE_DIR$/api/dist" />
       <excludeFolder url="file://$MODULE_DIR$/api/env" />
       <excludeFolder url="file://$MODULE_DIR$/api/tamaki_webapp_api.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tamaki-webapp-api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tamaki-webapp-api/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/tamaki-webapp-api/env" />
+      <excludeFolder url="file://$MODULE_DIR$/tamaki-webapp-api/tamaki_webapp_api.egg-info" />
       <excludeFolder url="file://$MODULE_DIR$/tamaki-webapp-frontend/build" />
     </content>
     <orderEntry type="inheritedJdk" />
